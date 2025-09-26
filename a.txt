@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Hello
 Today is THURSDAY
 sjfgsdg
+=======
+Hello
+Today is Thursday
+
+>>>>>>> 8b9bd4ea377814859c803d6713bd047b162bf61f
